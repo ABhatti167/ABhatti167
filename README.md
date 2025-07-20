@@ -5,7 +5,7 @@ I'm a Computer Science student passionate about software engineering, AI, and ba
 - Currently exploring backend systems and AI models  
 - Learning scalable web development and cloud infrastructure  
 - Ask me about Python, Java, and REST APIs  
-- How to reach me: [your email or LinkedIn URL]
+- How to reach me: [armaanbhatti972@gmail.com or https://www.linkedin.com/in/armaan-b-638043243/]
 
 ## Skills
 
