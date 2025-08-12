@@ -17,7 +17,8 @@ I'm a Computer Science student passionate about software engineering, AI, and ba
 
 - [AuralEyes-Visual-Assistant](https://github.com/ABhatti167/AuralEyes-Visual-Assistant) — Assistive tech for the visually impaired  
 - [3D-Model-Website](https://github.com/Anshuman-Dhillon/3D-Model-Website) — Interactive 3D modeller web application  
-- [Django_Texting_App](https://github.com/ABhatti167/Django_Texting_App) — Real-time texting app built with Django and AJAX  
+- [Django_Texting_App](https://github.com/ABhatti167/Django_Texting_App) — Real-time texting app with an integrated variety of AI chatbots ranging from DiabloGPT to Gemini Pro, 
+    built with Django  
 
 ---
 
